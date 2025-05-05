@@ -1,0 +1,44 @@
+Statistical Analytics System (SAS)
+####################################################################
+
+Statistical Package + DBMS (ETL Tool) + Programming Language (4th GEN Programming)
+
+SAS is a great Analysis Tool - a GOLD STANDARD in the Market.
+There can be so much to do, when it comes to Statistics and Analysis is concerned.
+>> Frequency or Mean Calculation - Central Tendency
+>> Regression and Forecasting - Decision Trees, Classification Problems
+
+Access > Manage > Analyze > Present
+
+70% of Data Scientist energy is spent in Organizing the Data. In this 70%, most of the time is used in Visualizing the Data.
+SAS has great presentation capabilities - it can create any kinds of reports.
+
+SAS Programming Concepts
+========================
+
+Used SAS University Edition - can be downloaded and installed.
+
+SAS Programming Process:
+-------------------------
+Define Business Problem >> Write a SAS Program >> Run the Program >> Review the Results
+
+SAS Programming is divided into two steps - DATA & PROC
+	DATA - creates or modifies SAS data sets.
+	PROC - analyze and process SAS data sets.
+	
+Data in SAS is in tabular form. 
+Data Types are Numeric and Characters.
+
+Variables - Column Space
+Observations - Row Space
+
+SAS uses Informat and Format
+ 
+
+
+
+
+
+
+
+
