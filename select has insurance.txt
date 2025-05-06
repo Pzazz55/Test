@@ -1,0 +1,39 @@
+select has_insurance, SUM(cost_after_insurance) FROM (
+  SELECT patient_id, has_insurance, 
+  CASE WHEN has_insurance = 'Yes' THEn 50 ELSE 10
+  END AS cost_after_insurance
+  FROm (
+    select distinct patient_id, 
+    CASE WHEN (patient_id % 2 = 0) THEN 'Yes' ELSE 'No'
+    END AS has_insurance
+    from admissions
+    ) As x
+) As y
+GROUP BY has_insurance;
+
+
+SELECT has_insurance, SUM(cost_after_insurance) AS cost_after_insurance
+FROM (
+  SELECT patient_id, has_insurance, 
+         CASE WHEN has_insurance = 'Yes' THEN 10 ELSE 50 END AS cost_after_insurance
+  FROM (
+    SELECT DISTINCT patient_id,
+           CASE WHEN (patient_id % 2 = 0) THEN 'Yes' ELSE 'No' END AS has_insurance
+    FROM admissions
+  ) AS x
+) AS y
+GROUP BY has_insurance;
+
+SELECT 
+CASE WHEN patient_id % 2 = 0 Then 
+    'Yes'
+ELSE 
+    'No' 
+END as has_insurance,
+SUM(CASE WHEN patient_id % 2 = 0 Then 
+    10
+ELSE 
+    50 
+END) as cost_after_insurance
+FROM admissions 
+GROUP BY has_insurance;
