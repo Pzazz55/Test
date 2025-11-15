@@ -1,0 +1,842 @@
+
+/----------------------------------------------------------------------------------------------/
+
+Naveen.Nammi@valuemomentum.com
+Machine Name: VMI-H9TQRW3
+Model: Latitude 5440
+
+
+/----------------------------------------------------------------------------------------------/
+
+naveenkumar.nammi@erieinsurance.com
+xh075@erieinsurance.com
+Commercial Lines Tech Dept
+
+
+https://erieinsurance.cloud.com
+
+
+/----------------------------------------------------------------------------------------------/
+
+Guidewire Portal
+
+https://education.guidewire.com/lmt/xlr8login.login?site=guidewire
+Value-GW#25
+
+
+
+/----------------------------------------------------------------------------------------------/
+
+Value EmpId: 104474
+
+https://app.fifoundry.net/en/valuemomentum/student/dashboard
+iNfy-Value@25
+
+====================================================================================================================
+
+
+--- VARIABLES & BASIC ARITHMETICS ---
+1.) Addition, Subtraction, Multiplication, Division, Floor Division, Modulo (Reminder), Power
+2.) Order of Operation
+3.) Variable Assignment - Dynamic Typing, Reassignment
+4.) Determining the Variable type.
+5.) Type of Variables - int, float, str, list, tuple, dict, set, bool
+6.) Padding and Precision of Floating Point Numbers
+7.) Boolean Operators - Equal To, Not Equal To, Greater Than, Less Than, Greather than and Equal To, Less than and Equal To.
+
+
+--- STRINGS ---
+1.) Declaring Strings - Single Quote & Double Quote
+2.) Printing Strings
+3.) Finding the length of a String.
+4.) Finding the index of a String.
+5.) Slicing the String - Forward & Backward
+6.) Concatenating a String.
+7.) Mulitplying a String.
+8.) Converting a String to Upper Case.
+9.) Converting a String to Lower Case.
+10.) Spliting a String based on a Character.
+11.) Print Formating
+12.) String Formating with .format() & f-string
+13.) String Formating with a placeholder
+14.) String Format Conversion - %s, %r, %d
+15.) Alignment, Padding, and Precision with .format()
+
+
+--- LISTS ---
+1.) Constructing a List - Declaration & Assignment.
+2.) Finding the length of a List.
+3.) Indexing and Slicing a List.
+4.) Appending elements to the List (at the end).
+5.) Inserting elements into a List at a give position.
+6.) Pop-off elements from the List - at the end & at a given position.
+7.) Reversing the order of elements in a List.
+8.) Nesting Lists (Matrix)
+9.) List Comphrehensions (constructing a list using loops)
+
+
+--- DICTIONARIES ---
+1.) Constructing a Dictionary - Declaration & Assignment.
+2.) Fetching values by their keys & index.
+3.) Creating Keys by Assignment.
+4.) Nesting with Dictionaries (Dictionary nested inside a Dictionary).
+5.) Fetch all value from the Dictionary - returned as a list.
+6.) Fetch all keys from the Dictionary - returned as a list.
+7.) Fetch all items from the Dictionary - returned as a tuple. 
+
+
+--- TUPLES ---
+1.) Constructing Tuples - Declaration & Assignment.
+2.) Finding the length of a Tuple.
+3.) Indexing and Slicing a Tuple.
+4.) Fetching the index of a Tuple by passing the value - .index()
+5.) Counting the number of times a value appears in a Tuple - .count()
+6.) Immutability - Elements cannot be Added, Modified, or Removed once a Tuple is created.
+
+
+--- SETS ---
+1.) Constructing Sets - Declaration & Assignment.
+2.) Adding values into a Set.
+3.) Casting a List into a Set - list with unique values & list with duplicate values.
+4.) Unique - Sets are unordered collection of unique elements.
+
+====================================================================================================================
+
+
+
+1. Dependency on Middleware/API Team
+
+Our team relied heavily on the middleware team for API integrations, which often caused sprint delays due to misaligned timelines and unclear ownership.
+My Approach:
+I facilitated joint planning sessions and introduced a shared dependency board in Jira. We also created synthetic test data using the MAGE tool to simulate API responses, allowing our team to continue development without waiting for production-ready endpoints.
+
+2. Heavy Regression Testing Slowing Releases
+
+We followed a bi-weekly release cadence, but regression testing was consuming significant QA bandwidth, especially with legacy systems involved.
+My Approach:
+I collaborated with QA leads to implement automated regression suites and prioritized test case refactoring during sprints. We also used synthetic data to avoid HIPAA violations and reduce reliance on masked production data.
+
+3. Tech-Savvy Customer Interfering with Team Dynamics
+
+A stakeholder from the customer side, though well-intentioned, frequently joined team discussions and suggested technical solutions, which disrupted focus and autonomy.
+My Approach:
+I set clear boundaries by reinforcing the Scrum roles and facilitated stakeholder alignment meetings outside of sprint ceremonies. I also coached the team on how to respectfully manage external inputs while staying focused on sprint goals.
+
+4. Low Agile Maturity & SAFe Adoption
+
+The organization was transitioning to SAFe, but the team lacked clarity on roles and responsibilities, leading to confusion and low morale.
+My Approach:
+I conducted Agile maturity assessments and tailored coaching sessions for each role—Scrum Team, Product Owner, and Release Train Engineer. I also introduced visual role maps and facilitated team-building retrospectives to rebuild trust and motivation.
+
+
+=========================================================================================================================================================================================
+Don't take the name CIO many times.
+SM is response for the Quality and should take the responsibility for it. Shield the team and act as first layer of defense.
+Keep the answe short, check with the audience and then add/subtract.
+Checkout what the other person whats - before answering the questions.
+Keep the conversation Engaging.
+
+=========================================================================================================================================================================================
+
+STRENGTHS -
+Domain & Product Knowledge
+E2E Ownership & Servent Leadership - Lead by Example
+Quantitative and Quantiative Analysis
+
+WEAKNESS -
+Limited Exposure to the AI/ML
+Hesitation to delegation in a New Team
+
+=========================================================================================================================================================================================
+
+Sprint Goal Achieved
+Team Velocity
+Defect Leakage/Quality
+Customer Satisfication
+Team Happiness
+
+=========================================================================================================================================================================================
+
+PI Planning
+System Demo
+Inspect & Adopt Sessions
+
+
+R - Resolved
+O - Owned
+A - Accepted
+M - Mitigated
+
+=========================================================================================================================================================================================
+
+
+Tips to show curiosity in an interview -
+
+I’m genuinely excited about the opportunity to contribute to this project.
+This aligns perfectly with my experience and interests.
+
+
+Ask Insightful Questions:
+Show curiosity by asking about the project's goals, team dynamics, challenges, and success metrics.
+Example: “What are the key milestones for this project in the next quarter?”
+
+Connect Your Experience:
+Relate your past work to the current project:
+“In my previous role, I led a similar initiative, and I’m eager to apply those learnings here.”
+
+Body Language:
+Maintain good posture, lean slightly forward, and nod occasionally to show engagement.
+Smile naturally and maintain eye contact to convey confidence and interest.
+
+Tone of Voice:
+Speak with energy and variation in tone—avoid sounding monotone.
+Emphasize key words that show excitement (e.g., “innovative,” “collaborative,” “impactful”).
+Use the STAR method (Situation, Task, Action, Result) to describe past experiences where you:
+
+Volunteered for challenging projects.
+Took initiative beyond your role.
+Collaborated enthusiastically with cross-functional teams.
+
+Example:
+
+“When I joined the Guidewire Excess Liability implementation, I proactively took ownership of integration testing even though it wasn’t initially in my scope. I saw it as a chance to contribute more meaningfully and ensure smoother delivery.”
+
+Express interest in next steps:
+I’d love to know more about how I can contribute to this team.
+Is there anything else I can share to help you assess my fittment for this project?
+
+<=====================================================================================================================================================================================>
+
+Which of the Agile Manifesto priniciples align with you the most.
+Embracing change over following a plan >> Nokia company examples
+This is where Agile is becoming famous over Waterfall.
+Change is not encouraged between the Sprint.
+
+12 Agile Principles
+Customer Needs - Priority, Working Software, Releasing Frequently, Quality of Code, Constant Pace
+Team - Motivated Individuals, Self Organized, Business & Tech speak to each other, Inspection & Adpotation, Face-to-Face Communication
+
+What retospective techniques used?
+> What went well, What did not go well, What can be improved (CI's - Continous Improvements)
+> Mad (Address Sooner) - Sad (It can be sailed through, but can be improved - just like CI) - Glad
+> 4L techniques
+> 3 Little Pigs - Straw, Wooden, Brick
+> Sail Boat - Boat is Sprint, Island - Sprint Goals, Anchors - Something that is pulling you back/down from the Sprint Goal, Wind - Something that is helping you meet the Sprint Goal.
+
+Make it fun and not studios - it is imaginative
+
+<=====================================================================================================================================================================================>
+
+Team is more Waterfall than Agile, what will you do to change ?
+
+Understand the stage/phase of the project - inspect for atleast one sprint and record things - reelases are slow (3 month once), traditional appraoch, team is not ready to change
+Speak to Sr. Leadership - take a break for a week - do some team building (make them more ease) fun events - ask what they know about Agile/Scrum - small problem that needs to follow scrum principles and should be done - go through the backlog and check how health and refined it is - speak to PO and try to know the impediment (not getting priortized, knwoledge about the app/solution) - build a health product backlog with right prioritization.
+Speak about good things and things to be continued - along with that propose the change and convience them by putting the options - give a feasibility plan.
+Dont make it look like an auditign activity and give assurance on the support from you as a Scrum Master.
+
+SM is facuilator and not like a traditional PM (Stop this, Start this) - convience the team and take them along.
+
+<=====================================================================================================================================================================================>
+
+New PO in the team who is adding items mid-sprint and closely followign up on this ind ay scrum team - what will you do as a Scrum Master ?
+Try to undertsadn the background of the PO - if PM before, more likely to behave that way.
+Try to undertsadn the Agile Maturity - if low, create awareness
+
+Let developer run the scrum, and not the PO. Develoepr should decide on how muchthey want to work.
+If pushed more, the 3 principles of Agile will go for a toss - Transprancy, Inspection, and Adoptation.
+If pushed more the team will estimate more (and everythign will fall apart) - trust between team is lost and the entire flavour of Agile is lost.
+Skip some of the Quality Steps and make a release - that would break in the production.
+ 
+
+What is the reason for PO doing this - is the team able to meet the Scrum Goals
+Explain all the above repucations.
+
+<=====================================================================================================================================================================================>
+
+What are some of the common issues observed in JIRA ?
+Stories
+Bugs
+Problem Record (>5 SPs)
+Incident (Production Outage/Issues)
+Technical Debt - no value added today, but keeping it pilled can create a bigger issue at later stage.
+
+<=====================================================================================================================================================================================>
+
+How do you ensure your team is delivering quality deliverables in every sprint?
+
+Have a good DOD checklist (build and confirm with the technical team) - 
+developement done, % unit testing automated, peer-review (code in GIT, reviwed by Sr. Lead Developer and pushed to Jenkins CI/CD), code merged ot main branch, testign scripts written (automation %, feasibility), UAT demo done in Sprint review and customer sign-off achieved, evidnece of UAT approved, Load Testing, Penn Testing.
+
+Have a good DOR checklist -
+is the tech design ready, is the walk through given - is the wireframe at place - does the story have the acceptance criteria - were the test scnearios attached to the stories (Confluence Page)
+
+<=====================================================================================================================================================================================>
+
+What are the various reports created as a Scrum Master and shared with Customer or Senior Management?
+
+Sprint Report - every 15 days
+(Delivery of the Sprint)
+DOD, DOR checklist, Velocity Planned vs Achieved, trend of Velcoity, what exactly delivered, impediment faced and do we need leadership involment.
+
+Monthly Deck - more from enaggement persepective  and not delivery perspective.
+RAG staus - Schedule, Cost, Scope, CI/Learning
+Last 2 sprint details - value delivered in last 2 sprints.
+CI initatives takes up and status.
+trend of team velcority in the last 6 sprints.
+Metrics - Unit Testing Coverage, % test Cases Automated, SonarQube Cpode Smells, Release Frequency, Rollbacks
+Pipeline for next 2 sprints - value that is going to be delivered, roadblocks in that pipeline.
+Operational Metrics - SLA, avaliability time, PR/Incidents, top 3 caused of issues/incidents.
+Lerning and Certifications in the team, Hackaton
+
+<=====================================================================================================================================================================================>
+
+What are the key items on a production checklist/release plan, and what do you value the most ?
+
+Prioritized Backlog - provided by teh PO team
+High Level Estimates on Story - Story Points, Fibbonaci, not more than 8 points
+Initaial velcoity of the team
+
+During initial planning if we don't have team velocity, then check which projects the same team delivered in the past - take that as the baseline.
+If new team, take capacity and consider productive for 6 hours (to start with) - 10 working days in a sprint => 4 * 6 * 10 = 240 hrs per Sprint (Capacity)
+Estimated Story can be broken down into tasks (say 5 SP) - dev, qa, dba related, integration realted (based on estimation - 50%, 30% 10% 2%)
+5 pointer = 30 hrs
+? pointer = 240 hrs
+
+=> (240 * 5)/30 => 40 SP's per Sprint
+
+Best Case Velocity => 40 SP
+Worst Case Velocity => 30 SP - consider 20-30% for leaves and downtime.
+
+Release Scope => 200 SP
+Best Case => 5 Sprints
+Worst Case => 7 SPrints
+
+Two Approaches -
+Date Give - come up with the features list (Fixed Scope)
+Features give - come up with the Date (Fixed Date)
+
+<=====================================================================================================================================================================================>
+
+
+In SAFe/Agile there are two primary kinds of work -
+
+● Business Features (or Business Work) - These are capabilities or features that deliver direct business value to the customer or end-user.
+
+● Enabler Work - Work that supports the implementation of business features but does not directly deliver business value. It enables future functionality or improves the system architecture.
+
+Types of Enablers in SAFe:
+	● Exploration Enablers: Research spikes, prototypes.
+	● Architecture Enablers: Infrastructure, frameworks.
+	● Compliance Enablers: Regulatory requirements.
+	● Infrastructure Enablers: CI/CD pipelines, cloud setup.
+	
+● Maintenance/Defects - These keep the system running smoothly (bug fixes, upgrades, technical debt reduction).
+
+● Innovation - It allows teams to experiment with new ideas, technologies, or processes that could improve future delivery.
+
+Business Features (Business Value Work) – Directly delivers value to customers.
+Enabler Work – Supports future business features or improves architecture.
+Maintenance and Innovation Work – Sustains the system and fosters innovation.
+
+PO quantifies technical debt’s business impact (e.g., slower deployments, defects) and negotiates with stakeholders to allocate capacity for refactoring.
+PO ensures balance between short-term delivery and long-term capability building.
+
+Capacity Allocation determines how much team effort goes to Business Features, Enablers, and Maintenance/Innovation. 
+
+=======================================================================================================================================================================================
+
+● Strategic Themes: 
+High-level business objectives that provide context for portfolio decisions in SAFe. They connect the enterprise strategy to the portfolio vision.
+It guides investment decisions across value streams, influence portfolio backlog prioritization, and act as a bridge between enterprise strategy & execution.
+
+● OKR's: 
+A goal-setting framework that defines specific, measurable objectives and key results to track progress. 
+It provide clarity and alignment at team, program, or portfolio level.
+It measure outcomes, not just outputs.
+
+Strategic Themes set the direction for the portfolio. While, the OKRs break that direction into measurable goals for execution.
+
+● Strategic Themes >> OKR's
+● Stratgic Themes >> Portfolio Epic >> Capabilities >> Features >> Stories
+
+PO supports Epic to Feature decomposition.
+PO connects with Product Manager and Architects to translate business Epics into implmentation features that can fit within a single PI.
+PO aligns features and PI objectives to the Strategic Themes by validating whether backlog items support the Key Results tied to OKRs.
+
+=======================================================================================================================================================================================
+
+A Value Stream represents the sequence of steps an organization uses to deliver a product or service to a customer. It focuses on the flow of value from concept to cash (or idea to delivery).
+
+Types of Value Streams in SAFe
+● Operational Value Streams - Deliver value directly to the customer.
+Example: Policy issuance process in an insurance company.
+
+● Development Value Streams - Support operational streams by developing systems and solutions.
+Example: Building an underwriting workbench or claims platform.
+
+Key Characteristics -
+	Customer-Centric: Everything revolves around delivering value to the end-user.
+	Cross-Functional: Includes all roles needed to deliver value (business + IT).
+	Aligned with SAFe ARTs (Agile Release Trains): Each ART supports one or more value streams.
+	Measured by Business Outcomes: Speed, quality, and customer satisfaction.
+
+=======================================================================================================================================================================================
+
+PI Predictability measures how closely a team or ART delivers value against committed objectives.
+PI Predictability = (Actual Business Value / Planned Business Value) × 100
+
+Flow Metrics => SAFe defines five flow metrics — Velocity, Time, Load, Efficiency, and Distribution
+PO uses these to identify bottlenecks and improve throughput.
+
+Business KPI's -
+● Adoption Rate (Customer Usage Post-Release)
+● Cycle Time (Idea to Value)
+● Customer Satisfaction (CSAT/NPS)
+● Feature ROI
+● Defect Leakage Rate
+
+Tracking these helps the PO validate product-market fit and delivery efficiency.
+By analyzing adoption metrics, churn rate, and user feedback the PO can determine if the feature solves the intended problem (or) the feature is a market-fit.
+
+=======================================================================================================================================================================================
+
+Lean UX encourages rapid experimentation and user validation over documentation. The PO partners with UX to define hypotheses, measure results, and integrate validated learnings into the backlog. As a result, the prototype tested with agents led to a simplified, more intuitive UI story set.
+
+PO makes economic trade-off decision by considering Cost of Delay, WSJF ranking, Risk Exposure, and Customer Impact before committing to development.
+PO promote innovation within the ART by reserving capacity during IP Iteration for spikes, proofs-of-concept, and automation initiatives. He/She encourages idea submission and showcases them in team demos.
+PO balances delivery pressure with team well-being by setting realistic PI objectives, managing scope mid-PI through stakeholder alignment, and celebrating incremental wins.
+
+=======================================================================================================================================================================================
+
+Techniques to write a good User Story -
+● INVEST
+
+https://www.linkedin.com/in/vgzhang/
+
+
+=======================================================================================================================================================================================
+
+“Good morning, and thank you for the opportunity to speak with you today. My name is Naveen Kumar Nammi, and I bring over 18 years of experience in IT, with the last 8+ years focused on Property & Casualty Insurance—particularly in Commercial Lines. I’ve worked extensively with enterprise InsurTech platforms like Guidewire, Insurity, and Vertafore, leading end-to-end implementations that support policy administration, billing, and claims operations.”
+
+“My core strengths lie in Agile delivery, stakeholder engagement, and translating complex insurance requirements into scalable solutions. I’ve served as both a Scrum Master and Lead Business Analyst, facilitating Agile ceremonies, coaching teams, and driving continuous improvement. I’m certified in CSM, CSPO, PMP, and Azure Fundamentals, and I’ve led cross-functional squads using Scrum and SAFe frameworks to deliver high-impact data and insurance products.”
+
+“In my recent roles at Erie Insurance and EverestRe, I’ve managed modernization initiatives—including cloud migrations and API integrations, production support, and regulatory compliance. I’ve also worked closely with underwriting, compliance, and product teams to implement rating logic, ISO circulars, and bureau reporting.”
+
+“Beyond technical delivery, I’m passionate about team empowerment and servant leadership. I focus on removing impediments, fostering collaboration, and aligning delivery with business goals. I’m currently enhancing my skills in Generative AI and Data Governance to stay ahead of industry trends.”
+
+“I’m excited about this opportunity because it aligns perfectly with my experience and passion for Agile transformation in the insurance space. I look forward to contributing to your team’s success.”
+
+
+=========================================================================================================================================================================================
+
+STRENGTHS -
+Domain & Product Knowledge
+E2E Ownership & Servent Leadership - Lead by Example
+Quantitative and Quantiative Analysis
+
+WEAKNESS -
+Limited Exposure to the AI/ML
+Hesitation to delegation in a New Team
+
+=========================================================================================================================================================================================
+
+Sprint Goal Achieved
+Team Velocity
+Defect Leakage/Quality
+Customer Satisfication
+Team Happiness
+
+=========================================================================================================================================================================================
+
+PI Planning
+System Demo
+Inspect & Adopt Sessions
+
+
+R - Resolved
+O - Owned
+A - Accepted
+M - Mitigated
+
+
+=========================================================================================================================================================================================
+
+Probability Distribution
+
+Probability and Its Importance
+Random Variable
+Probability Distribution
+	Discrete Probability Distribution - it can only take finite number of values
+	Continuous Probability Distribution - it can take infinite number of values (takes continuous values)
+Discrete Probability Distribution
+	Bernoulli Distribution
+	Binomial Distribution
+	Poisson Distribution
+Continuous Probability Distribution
+	Normal Distribution
+	Uniform Distribution - the items are distributed equally across - it is a straight line
+Probability Density Function and Mass Function
+Cumulative Distribution Function
+Central Limit Theorem
+Bayes’ Theorem
+Estimation Theory
+
+
+Probability Mass Function:
+Used for: Discrete Variables.
+Definition: PMF gives the probability that a discrete random variable is exactly equal to some value.
+Example: The probability of rolling a 3 on a dice is 1/6
+
+Probability Density Function:
+Used for: Continuous Variables (height, weight, time)
+Definition: PDF describes the relative likelihood for a random variable to take on a given value.
+Example: 
+
+Cumulative Distribution Function:
+Used for: Both Discrete and Continuous Variables.
+Definition: CDF gives the probability that a random variable is less than or equal to a certain value.
+Example: The probability of rolling a dice with less than 3.
+P(x<3) = P(1) + P(2) + P(3) = 1/6 + 1/6 + 1/6 = 1/2
+
+
+=========================================================================================================================================================================================
+
+Good understanding of LEAN and design thinking methodologies. Conducted research to identify user personas, pain points, and journeys & analyze this information (A/B tetsing, concept testing, data analysis) to inform product developlment.
+
+performing product performance baselining, arcticulate OKR's and establish product goals in relation to current performance.
+
+
+Product Owner vs Product Manager
+As a product owner why you think agile methodology is good.
+from agile point of view, how would you define the success of a product.
+what kind of matrix or reports are shared with the Business Owner to show the project is successful.
+analysis/report about the performance of the product & revenue saving report ?
+
+What is the purpose of product backlog and how did you create it ?
+How did you refine the product backlog ?
+
+=========================================================================================================================================================================================
+
+
+EXPOSURE - What is being insured?
+COVERAGE - What the insurer promises to pay if a covered event happens?
+
+<================================================================================================>
+
+COMMERCIAL PROPERTY - Building, Equipment, Lost Income (Business Interruption).
+
+GENERAL LIABILITY - Protects thge Business from Third-Party Claims for Bodily Injury, Property Damage, Personal/Advertising Injuries.
+
+BOP (Business Owner's Policy) - Commerical Property + General Liability.
+
+COMMERCIAL AUTO - Vehicels (Busienss Purpose), Medical, Liability, Uninsured/Underinsured Motorist, Hired/Non-Owned Auto, Guided Auto.
+
+WORKERS'S COMPENSATION - Medical Benefits, Lost Wages, Rehabilitation, Death Benefits.
+
+<================================================================================================>
+
+WC, CA, GL, Speciality Insurance (A&H) - Business Travel, Sport Accident, Events Accidents, School & Camp Accidents, NGO's and Community Program 
+
+UMBERALLA - provides additional coverages not found in the primary policy (Horizontal Scaling)
+EXCESS CASUALTY - provides additional limits over the primary policy (Vertical Scaling)
+
+Package Policy - Monoline & Multiline
+
+<================================================================================================>
+
+BOP - ERIE
+WC, CA, GL, A&H - Everest
+
+<================================================================================================>
+
+<RATING TYPES>
+Manual Rating = Premium is based on Standardized Tables/Rate Tables
+Scheduled Rating = Premium is adjusted based on individual's circumstances.
+Class Rating = All the policies are grouped together with similar risk profiles.
+Experience Rating = Adjust premium based on policy holder's past claims.
+
+<WINS>
+BILLING => Insutructions > Scheduling > Commissions > Invoicing > Policy Holder Services > Payment Proicessing > Clearance.
+- Direct Billing
+- Agency Billing
+
+LIMITS - Maximum Amount the insurer will pay for a covered loss.
+
+DEDUCTIBLE - Minimum Amount the insured must pay out-of-pocket before the insurance pays.
+
+<================================================================================================>
+
+TREATY REINSURANCE is a pre-negotiated agreement that covers a whole class or portfolio of risks. The reinsurer agrees to accept all risks that fall within the scope of the treaty.
+
+FACULTATIVE REINSURANCE is case-by-case reinsurance. The ceding company offers a specific risk to the reinsurer, who can accept or reject it.
+
+<================================================================================================>
+
+Why do we need a data driven system ?
+What is Data Engineering ?
+What is Data Engineering Lifecycle ?
+What is difference between Data Engineering vs Data Analytics vs Data Science?
+What is Data Generation & Data Storage ?
+Who is a DBA and what are his roles and responbilibilities?
+What is DBMS? [Database Management System]
+What is CURD operation? [CREATE, UPDATE, READ, DELETE]
+What is Realtional Database?
+What is Data Modelling?
+What is SQL vs NoSQL Databases?
+What is Data Processing System - OLTP vs OLAP
+ETL - Extract Transform Load
+What is the difference between ETL and ELT ?
+What is the difference between ETL and EDA ?
+How do you work with Big Data and process the data using Spark/Hadoop/Kafka?
+What is Data Governance?
+Data Architecture - Building from Scratch
+What is DWH? [Data Warehouse]
+What is Dimensional Modelling?
+What is Slow Changing Dimensions?
+What is Data Mart?
+What is Data Lakes?
+Data Lake vs Data Warehouse
+Big Data Landscape
+Data Engineering on Cloud - AWS, Azure, GCP (architecture, top tools and practical implementation)
+Modern Data Stack
+Important Tool for -
+Data Engineering - Python and SQL
+Data Warehouse Tools - Snowflake, Amazon REDSHIFT, BigQuery, HIVE, Azure Synapse Analytics, Apache Spark, Apache AirFlow, Apache Kafka
+
+===========================================================================================================================================
+
+What is Data Engineering ?
+Data Engineering involves designing, building, and maintaining systems and architecture for collecting, storing, and analyzing data. It ensures data is accessible, reliable, and ready for analysis.
+
+DA - This study will help answer about what has happened in the past.
+DS - This study will predict what can happen in the future (based on past patterns).
+ML Engineer - Automate the process of Data Analsys & Data Science.
+
+­ ETL vs EDA
+Purpose 
+
+
+===========================================================================================================================================
+
+
+Harshit Gupta - PeopleIntegra >> NTT Data Services >> Miti
+Chad Gavron/Meghan Copeland - Insightglobal >> CVS Tier 1
+Raju - DataSOL >> Vineeth/Sanjeeva - VM
+
+Nandini/Dhanjshree 
+
+===========================================================================================================================================
+
+
+Course
+
+Designing and implementing a data science solution on Azure
+
+	Explore and configure the Azure Machine Learning workspace
+		Explore Azure Machine Learning workspace resources and assets
+		Explore developer tools for workspace interaction
+		Make data available in Azure Machine Learning
+		Work with compute targets in Azure Machine Learning
+		Work with environments in Azure Machine Learning
+		
+	Experiment with Azure Machine Learning
+		Find the best classification model with Automated Machine Learning
+		Track model training in Jupyter notebooks with MLflow
+		
+	Optimize model training with Azure Machine Learning
+		Run a training script as a command job in Azure Machine Learning
+		Track model training with MLflow in jobs
+		Perform hyperparameter tuning with Azure Machine Learning
+		Run pipelines in Azure Machine Learning
+		
+	Manage and review models in Azure Machine Learning
+		Register an MLflow model in Azure Machine Learning
+		Create and explore the Responsible AI dashboard for a model in Azure Machine Learning
+		
+	Deploy and consume models with Azure Machine Learning
+		Deploy a model to a managed online endpoint
+		Deploy a model to a batch endpoint
+		
+	Develop generative AI apps in Azure
+		Plan and prepare to develop AI solutions on Azure
+		Choose and deploy models from the model catalog in Azure AI Foundry portal
+		Develop an AI app with the Azure AI Foundry SDK
+		Get started with prompt flow to develop language model apps in the Azure AI Foundry
+		Develop a RAG-based solution with your own data using Azure AI Foundry
+		Fine-tune a language model with Azure AI Foundry
+		Implement a responsible generative AI solution in Azure AI Foundry
+		Evaluate generative AI performance in Azure AI Foundry portal
+
+===========================================================================================================================================
+
+
+Check the Bukthiadipathi
+
+Check the bhava where the Nakshatradipathi of the Bukthiadipathi is debilitated => Meena (Ma -> Me)
+Check the condition of Meena => Ra placed and no other aspects
+Check the condition of lord of Meena => Ju in Ke Nakshatra
+Check for Gochara Ju or Sa dristhi => Sa will amplify problems and Ju will give blessing/nivarthi.
+
+9th bhava will have problems.
+
+=========================================
+-- Analysis of 6th bhava --
+
+6th bhava => strong Me is aspecting (3rd and 12th lord), aspected by the bhavadipathi (Ju)
+6th lord => Ju in 10th and aspecting 4th, Ju in Ke Nakshatra, Ju is 9th lord also.
+Check for Natal Ju or Sa dristhi - Ju is aspecting from Mesha
+Check for Gochara Ju or Sa dristhi - [Sa] is aspecting from Meena, [Ju] is aspecting from Mithuna.
+
+3, 6, 9, 12
+
+Saving Grace of more than 70%
+
+=========================================
+-- Analysis of 3rd bhava --
+
+3rd bhava => placement of Ke, aspect of Sa, shoonya rasi
+3rd lord => placed in swarashi, and is shoonyadipathi, vargothama
+Check for Natal Ju or Sa dristhi - Sa dristhi
+Check for Gochara Ju or Sa dristhi - [Sa] is aspecting from Meena
+
+Amplified problems in 3rd bhava => less than 30%
+
+=========================================
+-- Analysis of 4th bhava --
+
+4th bhava => placement of Ve (after parivarthana), aspected by Ju (6 & 9L)
+4th lord => placed in swarashi
+Check for Natal Ju or Sa dristhi - Ju dristhi
+Check for Gochara Ju or Sa dristhi - [Ju] is aspecting from Mithuna
+
+Saving Grace of more than 80%
+
+=========================================
+-- Analysis of 2nd bhava --
+
+2nd bhava => aspected by Ju (6 & 9L)
+2nd lord => placed in lagna with lagndipathi (Mo), with debilitated 5 & 10L (Ma)
+Check for Natal Ju or Sa dristhi - Ju dristhi
+Check for Gochara Ju or Sa dristhi - No
+
+Saving Gace of upto 60%
+
+===========================================================================================================================
+
+GENERIC SCREENS
+Interface for Access Control
+Interface for Document Upload
+Interface to Audit Trail & Logging
+
+SPECIFIC SCREEN
+Dashbaord for Policy Snapshot
+Interface to add/update/delete UW Rules
+UW Workflow Engine - View, Assign, Approve, Reject
+
+INTEGRATIONS (API)
+Integratoin with PAS
+Integration with Rules Engine
+Integration with Document Management System
+Integration with Claims System
+Integration with other 3rd Party Apps
+
+===========================================================================================================================
+:: DATA SCIENCE PROCESS ::
+Data Selection/Integration > Data Wrangling > Feature Engineering > Feature Selection > Model Selection > Hyper Paramater Tunning > Model Deployment
+
+:: FEATURE ENGINEERING ::
+
+1. Exploratory Data Analysis
+
+Get the Raw Data
+Check how many numerical features may be there? - Histogram, PDF Function (Seaborn, MathPlotLib)
+Check how many categorical features may be there?
+	How many categories are there?
+	Are there multiple categories?
+Are there any Missing Values? - Visualize all graphs with Missing Values.
+Are there any Outliers? - Box Plot
+Does the Raw Data need cleaning?
+
+Convert Raw Data into Useful Data - so that ML Algorithm can ingest and give amazing results.
+
+2. Handling the Missing Values
+
+Replace few features using some different-different techniques.
+If no outlier impact - handle using Mean, Median, Mode.
+If there is an outlier impact - handle using IQR (Forumla Based) to remove the Outliers & use Median.
+
+3. Handling Imblance Data Set.
+Not all ML Alogirtms work with an imbalance data set. The accuracy would be very bad.
+
+4. Treating the Outliers
+There are 2-3 ways to handle the outliers.
+
+5. Scaling down the Data - Standardization, Normalization
+
+6. Converting the Categorical Features inot Numerical Features (*** MOST IMPORTANT STEP ***)
+
+
+:: FEATURE SELECTION ::
+This is used to select the best featuers.
+Correlation
+K Neighbours
+Chi Square
+Genetic Algorithms
+Feature Importance - uses Extra Tree Classifier
+
+Krish EDA
+Krish Feature Engineering
+
+===========================================================================================================================
+
+If the bhava is afflicted from the Hora/Day/Dasha/Bhukti, the same will reflect from the bhava in the Muhurta.
+
+Su in Mesha - 2nd from Mesha is Vrushaba - Vrushaba is ruled by Ve - Ve is in Kanya
+Ve (2L) is in 6th from Su - NEGATIVE
+Ve (2L) is debilitated - NEGATIVE
+Ve (2L) is 5th from 2nd bhava - POSITIVE
+If Subha Graha is aspecting - POSITIVE (the person will come out of the problem)
+If Asubha Graha is aspecting or Shoonya - FULL NEGATIVE (the person will face lot of problems)
+
+
+Sa-Ra or Ra-Sa >> Inquire about the person before starting the prediction. Both Sa & Ra indicate missing, accident, or ellustrate relationship.
+When both LL and Lagna are hidden from day lord (day when the person is coming) => Inquire about the person before starting the prediction.
+
+===========================================================================================================================
+
+I am pitching for a Business Analyst role for a Data Science project that classifies Patient into GOLD, SILVER, BRONZE based on their risk score. Risk Score is calculated based on the historic patient health records, immunization records, claims history, provider notes, patient summary, etc.
+
+For this use case, assuming we are using Azure ML services to develop and deply - can you give me the technical details to explain in an interview such as the classification algorithm used, data wrangling process, fgeature engineering steps, etc.
+
+
+GEN-AI 
+1. ChatBOT implementation for FNOL Reporting
+2. Data Science project for Patient Risk Classification
+3. University Professional Certification in AI/ML
+4. Exploring AI prductivity tools - Lucidchart AI, Cursor AI, Notion AI, Azure ML & MLOps
+	Lucidchart AI: Auto-generates process flows and diagrams from text. Auto-generates flowcharts, ERDs, BPMN diagrams from text prompts.
+	Cursor AI: AI powered IDE for software development and technical product management. Built on VS Code, supports multi-file edits, refactoring, documentation, and test generation.
+	Notion AI: AI powered workspace for documentation, planning, and automation. Summarizes meeting notes, creates project plans, formats documents.
+	Azure ML & MLOps: End-to-end ML lifecycle management and deployment. Build, train, deploy models using AutoML, Designer, and SDK.
+	
+
+
+I am pitching for a Business Analyst role for implementing a ChatBOT for FNOL Claim Reporting in P&C Insurance. I used IBM Watson Assitant to create the dialoges, etc.
+For this use case, can you give me the technical details to explain in an interview all the steps.
+
+
+===========================================================================================================================
+
+A decorator is a function that modifies the behavior of another function without changing its code. 
+It’s often used for logging, access control, timing, caching, etc.
+
+732-686-5350
+===========================================================================================================================
+
+
+		
+
+
+
+
+
